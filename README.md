@@ -1,7 +1,7 @@
 # Olá! Eu sou a Mayra Augusta 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E879A9&center=true&vCenter=true&width=650&lines=Analista+de+Dados+J%C3%BAnior;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Transformando+dados+em+insights" alt="Animação de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E879A9&center=true&vCenter=true&width=650&lines=Desenvolvedora+Backend+Junior+J%C3%BAnior;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Transformando+dados+em+insights" alt="Animação de apresentação" />
 </p>
 
 
